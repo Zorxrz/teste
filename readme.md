@@ -5,6 +5,6 @@
 
 28/03/2020  12:37    <DIR>          .
 28/03/2020  12:37    <DIR>          ..
-28/03/2020  12:37                 0 readme.md
+28/03/2020  12:42                 0 readme.md
                1 arquivo(s)              0 bytes
-               2 pasta(s)   154.625.765.376 bytes dispon¡veis
+               2 pasta(s)   154.623.709.184 bytes dispon¡veis
